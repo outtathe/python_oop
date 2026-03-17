@@ -5,8 +5,9 @@
 .DS_Store
 
 # temp
-# src/lab01
+src/lab01/__pycache__
 src/lab02/practice.md
+src/lab02/a.md
 src/lab03
 src/lab04
 src/lab05
